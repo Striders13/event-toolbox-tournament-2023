@@ -1,0 +1,394 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bs" = (
+/obj/machinery/abductor/gland_dispenser,
+/turf/open/floor/vault/alien,
+/area/centcom/tdome/arena)
+"cj" = (
+/turf/closed/wall/mineral/abductor,
+/area/centcom/tdome/arena)
+"cT" = (
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/purple{
+	dir = 6
+	},
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"hA" = (
+/obj/structure/alien_tank/filled/hugger,
+/turf/open/floor/glass/plasma,
+/area/centcom/tdome/arena)
+"hL" = (
+/obj/effect/turf_decal/siding/purple/end,
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"ih" = (
+/obj/structure/table/abductor,
+/turf/open/floor/vault/alien,
+/area/centcom/tdome/arena)
+"jA" = (
+/obj/effect/turf_decal/siding/purple/corner,
+/obj/effect/turf_decal/siding/purple{
+	dir = 9
+	},
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"nt" = (
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+"of" = (
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+"qb" = (
+/obj/structure/alien_tank/filled,
+/turf/open/floor/glass/plasma,
+/area/centcom/tdome/arena)
+"rl" = (
+/obj/effect/turf_decal/siding/purple/end{
+	dir = 1
+	},
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"rW" = (
+/obj/effect/turf_decal/siding/purple/end{
+	dir = 8
+	},
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"wZ" = (
+/obj/structure/table/abductor,
+/obj/item/organ/internal/body_egg/alien_embryo,
+/turf/open/floor/vault/alien,
+/area/centcom/tdome/arena)
+"yW" = (
+/obj/structure/alien_tank/filled/larva,
+/turf/open/floor/glass/plasma,
+/area/centcom/tdome/arena)
+"zW" = (
+/obj/item/kirbyplants/photosynthetic,
+/turf/open/floor/vault/alien,
+/area/centcom/tdome/arena)
+"BT" = (
+/obj/effect/turf_decal/siding/purple{
+	dir = 8
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+"Cb" = (
+/obj/effect/turf_decal/tile/dark/fourcorners,
+/turf/open/floor/pod/dark,
+/area/centcom/tdome/arena)
+"Fc" = (
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+"Hl" = (
+/obj/effect/turf_decal/siding/purple{
+	dir = 6
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+"JE" = (
+/obj/effect/turf_decal/siding/purple/end{
+	dir = 4
+	},
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"Lu" = (
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/purple{
+	dir = 10
+	},
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"Lw" = (
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/purple{
+	dir = 5
+	},
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"Mj" = (
+/obj/structure/alien_tank/broken{
+	desc = "Was probably empty anyway."
+	},
+/turf/open/floor/glass/plasma,
+/area/centcom/tdome/arena)
+"MZ" = (
+/obj/effect/turf_decal/siding/purple{
+	dir = 10
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+"Pg" = (
+/obj/structure/alien_tank,
+/turf/open/floor/glass/plasma,
+/area/centcom/tdome/arena)
+"PS" = (
+/obj/machinery/abductor/pad,
+/obj/structure/receiving_pad,
+/turf/open/floor/glass/plasma,
+/area/centcom/tdome/arena)
+"TW" = (
+/obj/effect/turf_decal/siding/purple,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"UD" = (
+/obj/structure/table/abductor,
+/obj/item/organ/internal/heart/gland/trauma,
+/turf/open/floor/vault/alien,
+/area/centcom/tdome/arena)
+"VF" = (
+/obj/effect/turf_decal/siding/purple{
+	dir = 5
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+"Wh" = (
+/obj/effect/turf_decal/siding/purple{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/plating/abductor,
+/area/centcom/tdome/arena)
+"Yq" = (
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+"YF" = (
+/turf/open/floor/vault/alien,
+/area/centcom/tdome/arena)
+"YL" = (
+/obj/structure/showcase/machinery/implanter{
+	desc = "Implants, apparently.";
+	icon_state = "hypnochair_open";
+	name = "implanter"
+	},
+/turf/open/floor/vault/alien,
+/area/centcom/tdome/arena)
+"Zu" = (
+/obj/effect/turf_decal/siding/purple{
+	dir = 9
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/centcom/tdome/arena)
+
+(1,1,1) = {"
+jA
+Wh
+hL
+Cb
+Cb
+Cb
+Cb
+rl
+Wh
+Lu
+"}
+(2,1,1) = {"
+TW
+cj
+cj
+nt
+nt
+nt
+nt
+cj
+cj
+TW
+"}
+(3,1,1) = {"
+JE
+cj
+nt
+YF
+YF
+YF
+YF
+nt
+cj
+JE
+"}
+(4,1,1) = {"
+Cb
+nt
+zW
+bs
+UD
+ih
+PS
+zW
+nt
+Cb
+"}
+(5,1,1) = {"
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+"}
+(6,1,1) = {"
+Cb
+YF
+YF
+YF
+Cb
+Cb
+YF
+YF
+YF
+Cb
+"}
+(7,1,1) = {"
+Cb
+Zu
+BT
+MZ
+Cb
+Cb
+Zu
+BT
+MZ
+Cb
+"}
+(8,1,1) = {"
+Cb
+of
+yW
+Yq
+Cb
+Cb
+of
+hA
+Yq
+Cb
+"}
+(9,1,1) = {"
+Cb
+of
+hA
+Yq
+Cb
+Cb
+of
+Mj
+Yq
+Cb
+"}
+(10,1,1) = {"
+Cb
+of
+qb
+Yq
+Cb
+Cb
+of
+Pg
+Yq
+Cb
+"}
+(11,1,1) = {"
+Cb
+VF
+Fc
+Hl
+Cb
+Cb
+VF
+Fc
+Hl
+Cb
+"}
+(12,1,1) = {"
+Cb
+YF
+YF
+YF
+Cb
+Cb
+YF
+YF
+YF
+Cb
+"}
+(13,1,1) = {"
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+Cb
+"}
+(14,1,1) = {"
+Cb
+nt
+zW
+YL
+wZ
+ih
+PS
+zW
+nt
+Cb
+"}
+(15,1,1) = {"
+rW
+cj
+nt
+YF
+YF
+YF
+YF
+nt
+cj
+rW
+"}
+(16,1,1) = {"
+TW
+cj
+cj
+nt
+nt
+nt
+nt
+cj
+cj
+TW
+"}
+(17,1,1) = {"
+Lw
+Wh
+hL
+Cb
+Cb
+Cb
+Cb
+rl
+Wh
+cT
+"}
