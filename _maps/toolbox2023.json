@@ -4,14 +4,6 @@
 	"map_path": "map_files/Toolbox2023",
 	"map_file": "Toolbox2023.dmm",
 	"traits": [
-		{
-			"Up": true,
-			"Linkage": "Cross"
-		},
-		{
-			"Down": true,
-			"Baseturf": "/turf/open/openspace",
-			"Linkage": "Cross"
-		}
+
 	]
 }

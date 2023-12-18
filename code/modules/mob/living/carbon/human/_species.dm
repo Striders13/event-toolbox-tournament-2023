@@ -1154,8 +1154,8 @@ GLOBAL_LIST_EMPTY(features_by_species)
 		//Someone in a grapple is much more vulnerable to being harmed by punches.
 		var/grappled = FALSE
 
-		if(target.get_timed_status_effect_duration(/datum/status_effect/staggered))
-			staggered = TRUE
+		// if(target.get_timed_status_effect_duration(/datum/status_effect/staggered))
+		// 	staggered = TRUE
 
 		if(target.pulledby && target.pulledby.grab_state >= GRAB_AGGRESSIVE)
 			grappled = TRUE
