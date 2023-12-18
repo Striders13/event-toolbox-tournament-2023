@@ -1,14 +1,13 @@
 [
   {
-    "name": "test",
+    "name": "Valid Moth Name",
     "roster": [
       "Striders13"
     ],
     "outfit": {
-		"head": "/obj/item/clothing/head/utility/hardhat",
-		"uniform": "/obj/item/clothing/under/rank/engineering/engineer"
 	},
-    "team_id": "1"
+    "team_id": "1",
+	"toolbox_color": "#ef721d"
   },
   {
     "name": "Прошмандовки массметы",
