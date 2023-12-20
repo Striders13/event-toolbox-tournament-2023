@@ -6,8 +6,156 @@
     ],
     "outfit": {
 	},
-    "team_id": "1",
+    "team_id": "0",
 	"toolbox_color": "#ef721d"
+  },
+   {
+    "name": "Moth Sax",
+    "roster": [
+      "sk1wass3r",
+      "gremblot"
+    ],
+    "outfit": {},
+    "team_id": "1",
+	"toolbox_color": "#ff53c0"
+  },
+  {
+    "name": "Swag Awesome",
+    "roster": [
+      "maskenary",
+      "TheWolfbringer"
+    ],
+    "outfit": {},
+    "team_id": "2",
+	"toolbox_color": "#c8ad80"
+  },
+  {
+    "name": "AdminAbussse",
+    "roster": [
+      "Artemchik",
+      "xxxpingvynxxxx "
+    ],
+    "outfit": {},
+    "team_id": "3",
+	"toolbox_color": ""
+  },
+    {
+    "name": "РП онли",
+    "roster": [
+      "Lime7",
+      "Siviru"
+    ],
+    "outfit": {},
+    "team_id": "4",
+	"toolbox_color": "#4f91bd"
+  },
+    {
+    "name": "Eight-Eyed Wikimen",
+    "roster": [
+      "Sayzee",
+      "leekiforthetrue"
+    ],
+    "outfit": {},
+    "team_id": "5",
+	"toolbox_color": "#946f28"
+  },
+    {
+    "name": "The least robust Massmeta gamers",
+    "roster": [
+      "NotSaHek",
+      "Samag"
+    ],
+    "outfit": {},
+    "team_id": "6",
+	"toolbox_color": "#7829b5"
+  },
+    {
+    "name": "СС 13 МГЕ Братки",
+    "roster": [
+      "Jamessirk",
+      "Herty"
+    ],
+    "outfit": {},
+    "team_id": "7",
+	"toolbox_color": "#0abe57"
+  },
+    {
+    "name": "команда тулбокс бить",
+    "roster": [
+      "Biratomi00",
+      "Noobzik8 "
+    ],
+    "outfit": {},
+    "team_id": "8",
+	"toolbox_color": "#923496"
+  },
+    {
+    "name": "долбаёбы с блюмуна",
+    "roster": [
+      "ailhate",
+      "z67"
+    ],
+    "outfit": {},
+    "team_id": "9",
+	"toolbox_color": "#a14f58"
+  },
+    {
+    "name": "колясничники",
+    "roster": [
+      "AcansysSig",
+      "Ratatatu"
+    ],
+    "outfit": {},
+    "team_id": "10",
+	"toolbox_color": "#005c92"
+  },  {
+    "name": "БТР",
+    "roster": [
+      "AvgustFroch",
+      "CnaperDodo"
+    ],
+    "outfit": {},
+    "team_id": "11",
+	"toolbox_color": "#826b75"
+  },  {
+    "name": "Thugner PMC",
+    "roster": [
+      "prussen",
+      "jonashx"
+    ],
+    "outfit": {},
+    "team_id": "12",
+	"toolbox_color": "#c82908"
+  },
+    {
+    "name": "Russo-American Coalition",
+    "roster": [
+      "sinfulbliss",
+      "NastielFired"
+    ],
+    "outfit": {},
+    "team_id": "13",
+	"toolbox_color": "#8c5e25"
+  },
+    {
+    "name": "ВоваНагибчик666",
+    "roster": [
+      "Arbuzik456",
+      "Mechar"
+    ],
+    "outfit": {},
+    "team_id": "14",
+	"toolbox_color": "#cd3e7f"
+  },
+   {
+    "name": "ВоваНагибчик666",
+    "roster": [
+      "CodyZ2",
+      "NotSoEpikName"
+    ],
+    "outfit": {},
+    "team_id": "15",
+	"toolbox_color": "#3f0bc0"
   },
   {
     "name": "Прошмандовки массметы",
@@ -16,6 +164,7 @@
       "Romenv"
     ],
     "outfit": {},
-    "team_id": "2"
+    "team_id": "16",
+	"toolbox_color": "#ef721d"
   }
 ]
