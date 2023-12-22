@@ -166,5 +166,25 @@
     "outfit": {},
     "team_id": "16",
 	"toolbox_color": "#ef721d"
+  },
+  {
+    "name": "Super robust king Leader Mazur",
+    "roster": [
+      "Mazur907",
+      "customs4"
+    ],
+    "outfit": {},
+    "team_id": "17",
+	"toolbox_color": "#267730"
+  },
+  {
+    "name": "Skibidi Toilets",
+    "roster": [
+      "LogDogWhyNot",
+      "SexJohn"
+    ],
+    "outfit": {},
+    "team_id": "18",
+	"toolbox_color": "#52bee9"
   }
 ]
